@@ -21,7 +21,7 @@ export default function Navbar() {
     <div className="bg-white text-black font-sans">
 
       {/* Main Nav */}
-      <div className="relative flex items-center justify-between px-12 h-20 bg-white z-50 shadow-md shadow-[#161a2507]">
+      <div className="relative flex items-center justify-between px-12 h-20 bg-white z-50">
 
         {/* Left Links */}
         <ul className="flex items-center gap-8 list-none m-0 p-0">
