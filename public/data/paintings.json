@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "title": "Sunset Serenity",
+      "artist": "Ava Thompson",
+      "category": "Landscape",
+      "sizes": [
+        {
+          "width": 24,
+          "height": 18,
+          "unit": "inch",
+          "price": 12000,
+          "stock": 3
+        },
+        {
+          "width": 30,
+          "height": 20,
+          "unit": "inch",
+          "price": 16000,
+          "stock": 2
+        },
+        {
+          "width": 36,
+          "height": 24,
+          "unit": "inch",
+          "price": 22000,
+          "stock": 1
+        }
+      ],
+      "currency": "BDT",
+      "images": [
+        "https://www.fionarocheartist.ie/wp-content/uploads/2024/03/My-Wildest-Dreams-by-Fiona-Roche-artist-scaled.jpg"
+      ],
+      "description": "A peaceful sunset landscape with warm colors and calm atmosphere.",
+      "rating": 4.5,
+      "reviews": 12,
+      "medium": "Oil on Canvas",
+      "frame": true,
+      "shipping": "Inside Dhaka",
+      "createdAt": "2025-01-10",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Eternal Bloom",
+      "artist": "Sophia Laurent",
+      "category": "Flora",
+      "sizes": [
+        {
+          "width": 20,
+          "height": 24,
+          "unit": "inch",
+          "price": 14500,
+          "stock": 4
+        },
+        {
+          "width": 28,
+          "height": 32,
+          "unit": "inch",
+          "price": 21000,
+          "stock": 2
+        }
+      ],
+      "currency": "BDT",
+      "images": [
+        "/assets/paintings/eternal_bloom_1.jpg",
+        "/assets/paintings/eternal_bloom_2.jpg"
+      ],
+      "description": "Vibrant floral composition with delicate petals and rich textures.",
+      "rating": 4.8,
+      "reviews": 19,
+      "medium": "Oil on Canvas",
+      "frame": true,
+      "shipping": "Inside Dhaka",
+      "createdAt": "2025-02-05",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Mountain Silence",
+      "artist": "Rahim Khan",
+      "category": "Landscape",
+      "sizes": [
+        {
+          "width": 36,
+          "height": 24,
+          "unit": "inch",
+          "price": 18500,
+          "stock": 1
+        }
+      ],
+      "currency": "BDT",
+      "images": [
+        "/assets/paintings/mountain_silence.jpg"
+      ],
+      "description": "Majestic mountain peaks captured in soft morning mist.",
+      "rating": 4.7,
+      "reviews": 8,
+      "medium": "Acrylic on Canvas",
+      "frame": false,
+      "shipping": "Inside Dhaka",
+      "createdAt": "2025-01-28",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "The Silent Gaze",
+      "artist": "Elena Voss",
+      "category": "Portrait",
+      "sizes": [
+        {
+          "width": 24,
+          "height": 30,
+          "unit": "inch",
+          "price": 25000,
+          "stock": 2
+        }
+      ],
+      "currency": "BDT",
+      "images": [
+        "/assets/paintings/silent_gaze.jpg"
+      ],
+      "description": "A captivating portrait that speaks through the eyes.",
+      "rating": 5.0,
+      "reviews": 15,
+      "medium": "Oil on Linen",
+      "frame": true,
+      "shipping": "Inside Dhaka",
+      "createdAt": "2025-03-01",
+      "featured": true
+    }
+  ]
