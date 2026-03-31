@@ -21,8 +21,8 @@ export default async function Arts() {
       {arts.slice(0, 3).map((art: any) => (
         <div key={art.id}>
           <img src={art.images[0]} />
-          <h2 className="text-3xl font-light tracking-[-0.05em] text-black hover:text-[#162456] leading-none select-none pt-8 pb-5">{art.title}</h2>
-          <p className="text-[#0a1022] select-none w-80">{art.description}</p>
+          <h2 className="text-3xl font-light electrolize text-black hover:text-[#162456] leading-none select-none pt-8 pb-5">{art.title}</h2>
+          <p className="text-[#0a1022] select-none w-80 roboto">{art.description}</p>
         </div>
       ))}
     </div>

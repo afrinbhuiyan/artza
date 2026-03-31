@@ -8,17 +8,17 @@ export default function Banner() {
         {/* Right Side - Text Content */}
         <div className="relative z-10 w-full md:w-1/2 px-6 md:px-16 py-20 md:py-0 flex items-center min-h-[800px]">
           <div className="max-w-xl space-y-8">
-            <div className="inline-block px-5 py-2 bg-white/90 backdrop-blur-md text-black text-sm tracking-widest uppercase font-medium border border-black/10">
+            <div className="inline-block roboto px-5 py-2 bg-white/90 backdrop-blur-md text-black text-sm tracking-widest uppercase font-medium border border-black/10">
               New Collection 2026
             </div>
 
-            <h1 className="text-5xl md:text-6xl lg:text-7xl font-light leading-tight tracking-wide text-black">
+            <h1 className="text-5xl md:text-6xl lg:text-7xl font-light leading-tight tracking-wide text-black electrolize">
               Art that
               <br />
               tells your story
             </h1>
 
-            <p className="text-xl text-gray-600 max-w-lg">
+            <p className="text-xl text-gray-600 max-w-lg roboto">
               Discover original paintings and limited edition artworks from
               emerging and established artists.
             </p>
@@ -26,7 +26,7 @@ export default function Banner() {
             <div className="flex flex-wrap gap-4 pt-4">
               <a
                 href="/shop"
-                className="bg-black text-white px-10 py-2 text-lg font-medium hover:bg-[#162456] transition-all duration-300 flex items-center gap-2"
+                className="bg-black roboto text-white px-10 py-2 text-lg font-medium hover:bg-[#162456] transition-all duration-300 flex items-center gap-2"
               >
                 Shop Now
                 <span>→</span>
